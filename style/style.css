@@ -55,7 +55,7 @@ a {
     background-image: url(../images/top-page/background_first_page.png);
     width: 100vw;
     height: calc(100vh - 77px);
-    max-height: 1200px;
+    max-height: 800px;
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
